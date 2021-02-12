@@ -1,0 +1,362 @@
+
+
+Welcome to the chutes and ladders game. Both 
+players start at 0, and the first one to 100 
+wins the game. 
+
+please enter player1's name: Tom
+Please enter player2's name: Helen
+
+Tom: Its your turn 
+You rolled 2
+Your new location is: 2
+
+Helen: Its your turn.
+You rolled 5
+Your new location is: 5
+
+Tom: Its your turn 
+You rolled 4
+Your new location is: 6
+
+Helen: Its your turn.
+You rolled 2
+Your new location is: 7
+
+Tom: Its your turn 
+You rolled 6
+Your new location is: 12
+
+Helen: Its your turn.
+You rolled 2
+You landed on ladders, and get to move up the board!
+Your new location is: 21
+
+Tom: Its your turn 
+You rolled 5
+Your new location is: 17
+
+Helen: Its your turn.
+You rolled 1
+Your new location is: 22
+
+Tom: Its your turn 
+You rolled 4
+Your new location is: 21
+
+Helen: Its your turn.
+You rolled 2
+Your new location is: 24
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 24
+
+Helen: Its your turn.
+You rolled 2
+Your new location is: 26
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 27
+
+Helen: Its your turn.
+You rolled 2
+You landed on ladders, and get to move up the board!
+Your new location is: 84
+
+Tom: Its your turn 
+You rolled 6
+Your new location is: 33
+
+Helen: Its your turn.
+You rolled 5
+Your new location is: 89
+
+Tom: Its your turn 
+You rolled 1
+Your new location is: 34
+
+Helen: Its your turn.
+You rolled 1
+Your new location is: 90
+
+Tom: Its your turn 
+You rolled 5
+Your new location is: 39
+
+Helen: Its your turn.
+You rolled 5
+You landed on chutes, and have to move down
+Your new location is: 75
+
+Tom: Its your turn 
+You rolled 6
+Your new location is: 45
+
+Helen: Its your turn.
+You rolled 3
+Your new location is: 78
+
+Tom: Its your turn 
+You rolled 4
+You landed on chutes, and have to move down
+Your new location is: 11
+
+Helen: Its your turn.
+You rolled 4
+Your new location is: 82
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 14
+
+Helen: Its your turn.
+You rolled 3
+Your new location is: 85
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 17
+
+Helen: Its your turn.
+You rolled 2
+You landed on chutes, and have to move down
+Your new location is: 24
+
+Tom: Its your turn 
+You rolled 2
+Your new location is: 19
+
+Helen: Its your turn.
+You rolled 2
+Your new location is: 26
+
+Tom: Its your turn 
+You rolled 6
+Your new location is: 25
+
+Helen: Its your turn.
+You rolled 1
+Your new location is: 27
+
+Tom: Its your turn 
+You rolled 1
+Your new location is: 26
+
+Helen: Its your turn.
+You rolled 1
+You landed on ladders, and get to move up the board!
+Your new location is: 84
+
+Tom: Its your turn 
+You rolled 6
+Your new location is: 32
+
+Helen: Its your turn.
+You rolled 4
+Your new location is: 88
+
+Tom: Its your turn 
+You rolled 2
+Your new location is: 34
+
+Helen: Its your turn.
+You rolled 5
+You landed on chutes, and have to move down
+Your new location is: 70
+
+Tom: Its your turn 
+You rolled 2
+You landed on ladders, and get to move up the board!
+Your new location is: 44
+
+Helen: Its your turn.
+You rolled 5
+Your new location is: 75
+
+Tom: Its your turn 
+You rolled 4
+You landed on chutes, and have to move down
+Your new location is: 26
+
+Helen: Its your turn.
+You rolled 4
+Your new location is: 79
+
+Tom: Its your turn 
+You rolled 4
+Your new location is: 30
+
+Helen: Its your turn.
+You rolled 6
+Your new location is: 85
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 33
+
+Helen: Its your turn.
+You rolled 2
+You landed on chutes, and have to move down
+Your new location is: 24
+
+Tom: Its your turn 
+You rolled 3
+You landed on ladders, and get to move up the board!
+Your new location is: 44
+
+Helen: Its your turn.
+You rolled 3
+Your new location is: 27
+
+Tom: Its your turn 
+You rolled 6
+Your new location is: 50
+
+Helen: Its your turn.
+You rolled 1
+You landed on ladders, and get to move up the board!
+Your new location is: 84
+
+Tom: Its your turn 
+You rolled 6
+You landed on chutes, and have to move down
+Your new location is: 53
+
+Helen: Its your turn.
+You rolled 5
+Your new location is: 89
+
+Tom: Its your turn 
+You rolled 2
+Your new location is: 55
+
+Helen: Its your turn.
+You rolled 3
+Your new location is: 92
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 58
+
+Helen: Its your turn.
+You rolled 4
+Your new location is: 96
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 61
+
+Helen: Its your turn.
+You rolled 3
+Your new location is: 99
+
+Tom: Its your turn 
+You rolled 5
+Your new location is: 66
+
+Helen: Its your turn.
+You rolled 2
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 4
+Your new location is: 70
+
+Helen: Its your turn.
+You rolled 4
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 73
+
+Helen: Its your turn.
+You rolled 4
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 76
+
+Helen: Its your turn.
+You rolled 6
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 5
+Your new location is: 81
+
+Helen: Its your turn.
+You rolled 4
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 2
+Your new location is: 83
+
+Helen: Its your turn.
+You rolled 6
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 1
+Your new location is: 84
+
+Helen: Its your turn.
+You rolled 4
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 1
+Your new location is: 85
+
+Helen: Its your turn.
+You rolled 4
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 88
+
+Helen: Its your turn.
+You rolled 4
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 3
+Your new location is: 91
+
+Helen: Its your turn.
+You rolled 3
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 4
+You landed on chutes, and have to move down
+Your new location is: 75
+
+Helen: Its your turn.
+You rolled 3
+The spin is ignored because the result will past 100
+
+Tom: Its your turn 
+You rolled 2
+Your new location is: 77
+
+Helen: Its your turn.
+You rolled 1
+Your new location is: 100
+Player 2 Helen won!!
+
+
+
+Do you want to play again? (y/n)n
+
+
+
+
+Thanks for playing!
+
+
